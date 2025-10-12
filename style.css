@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;1,400&display=swap');
 :root{--orange:#FF7A00}
 body{margin:0;font-family:'Poppins',sans-serif;color:#fff;text-align:center;background:#000;overflow-x:hidden}
-.background{background-image:url('background.png');background-size:cover;background-position:center;position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1}
+.background{background-image:url('AIVA BCKGRND IMG.png');background-size:cover;background-position:center;position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1}
 .header{position:fixed;top:18px;left:18px;z-index:40}
 .header img{height:56px}
 .main{padding-top:110px;max-width:1100px;margin:0 auto}
