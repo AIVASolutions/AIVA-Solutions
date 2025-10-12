@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;1,400&display=swap');
 :root{--orange:#FF7A00}
-body{margin:0;padding: 0; background-image: url ('favicon.png'); background-size: cover; background position: center; background-repeat: no-repeat; background-attachment: fixed; color: #ffffff; font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif}
+body{margin:0;padding: 0; background-image: url ('background.png'); background-size: cover; background position: center; background-repeat: no-repeat; background-attachment: fixed; color: #ffffff; font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif}
 .background{background-image:url('background.png');background-size:cover;background-position:center; background-repeat: no-repeat; background-attachment: fixed; background-color: #ffffff}
 .header{position:fixed;top:18px;left:18px;z-index:40}
 .header img{height:56px}
