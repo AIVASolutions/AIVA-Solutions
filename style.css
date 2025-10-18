@@ -17,3 +17,27 @@ body{margin:0;font-family:'Poppins',sans-serif;color:#fff;text-align:center;back
 footer{padding:28px 10px 60px;color:#fff;opacity:0.95}
 footer a{color:#fff;text-decoration:none}
 @media(max-width:700px){.tagline{font-size:1.4rem};.contact{width:90%}}
+/* Desktop styles (default) */
+.main {
+  max-width: 800px;
+  margin: 0 auto;
+  /* other styles */
+}
+
+/* Mobile styles */
+@media (max-width: 600px) {
+  .main {
+    max-width: 100%;
+    padding: 10px;
+    font-size: 1.1em;
+    /* adjust as needed */
+  }
+  .testimonials .quote {
+    font-size: 1em;
+    /* make text readable on small screens */
+  }
+  header img {
+    width: 150px;
+    /* shrink logo for mobile */
+  }
+}
