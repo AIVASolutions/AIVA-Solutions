@@ -1,0 +1,14 @@
+{
+  "name": "AIVA Solutions Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:latest",
+  "features": {},
+  "forwardPorts": [],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ],
+  "postCreateCommand": "npm install"
+}
